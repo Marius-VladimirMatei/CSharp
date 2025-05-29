@@ -1,0 +1,69 @@
+﻿<Window x:Class="_0601_emplManagerAsync.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Employee Manager"
+        Height="480" Width="614">
+
+    <Canvas>
+
+        <!-- Header -->
+        <TextBlock Canvas.Left="150" Canvas.Top="10"
+                   FontSize="16" FontWeight="Bold">
+            Welcome to Employee Management System
+        </TextBlock>
+
+        <!-- Instruction -->
+        <TextBlock Canvas.Left="50" Canvas.Top="48" HorizontalAlignment="Center" VerticalAlignment="Top">
+            Please add all the required information:
+        </TextBlock>
+
+        <!-- Name Label & TextBox -->
+        <Label Canvas.Left="50" Canvas.Top="80"
+               Target="{Binding ElementName=NameTextBox}">
+            Name:
+        </Label>
+        <TextBox x:Name="NameTextBox"
+                 Canvas.Left="120" Canvas.Top="80"
+                 Width="374" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <!-- Age Label & TextBox -->
+        <Label Canvas.Left="50" Canvas.Top="120"
+               Target="{Binding ElementName=AgeTextBox}">
+            Age:
+        </Label>
+        <TextBox x:Name="AgeTextBox"
+                 Canvas.Left="120" Canvas.Top="120"
+                 Width="374" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <!-- Submit Button -->
+        <Button x:Name="SubmitButton"
+                Content="Submit"
+                Canvas.Left="180" Canvas.Top="170"
+                Width="90"
+                Click="SubmitButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <!-- Display All Button -->
+        <Button x:Name="DisplayAllButton"
+                Content="Display all entries"
+                Canvas.Left="350" Canvas.Top="170"
+                Width="120"
+                Click="DisplayAllButton_Click" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <!-- Result area with scrollable TextBox -->
+        <Border Canvas.Left="50" Canvas.Top="220"
+                Width="500" Height="200"
+                BorderBrush="Black"
+                BorderThickness="1"
+                CornerRadius="4"
+                Padding="5"
+                Background="#FFF0F0F0">   <!-- TextBlock background color -->
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <TextBlock x:Name="ResultTextBlock"
+                           FontWeight="Bold"
+                           TextWrapping="Wrap"
+                           Text="The program is ready."
+                           Foreground="#FF272727"/> <!-- Text color -->
+            </ScrollViewer>
+        </Border>
+    </Canvas>
+</Window>
