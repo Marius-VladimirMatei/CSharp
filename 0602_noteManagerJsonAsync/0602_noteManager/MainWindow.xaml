@@ -1,0 +1,46 @@
+﻿<!-- MainWindow.xaml -->
+<Window x:Class="_0602_noteManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Notes Manager" Height="450" Width="800">
+    
+    <!-- Outter Grid definition -->
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <!-- Input Fields -->
+        <StackPanel Grid.Row="0" Grid.Column="0" Margin="0,0,10,10">
+            <TextBlock Text="Title:" FontWeight="Bold"/>
+            <TextBox x:Name="TitleTextBox" />
+            <TextBlock Text="Content:" FontWeight="Bold" Margin="0,10,0,0"/>
+            <TextBox x:Name="ContentTextBox" Height="80" TextWrapping="Wrap" AcceptsReturn="True"/>
+        </StackPanel>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Vertical" HorizontalAlignment="Stretch">
+            <Button x:Name="AddButton" Content="Add Note" Margin="0,0,0,5" Click="AddButton_Click"/>
+            <Button x:Name="DeleteButton" Content="Delete Selected" Margin="0,0,0,5" Click="DeleteButton_Click"/>
+            <Button x:Name="RefreshButton" Content="Display all notes" Click="DisplayAllNotesButton_Click"/>
+        </StackPanel>
+
+        <!-- Notes Display -->
+        <ListBox x:Name="NotesListBox" Grid.Row="2" Grid.ColumnSpan="2"/>
+
+        <!-- Status / Result -->
+        <TextBlock x:Name="StatusTextBlock"
+               Grid.Row="3" Grid.ColumnSpan="2"
+               FontStyle="Italic" Foreground="Gray"
+               Margin="0,10,0,0"/>
+    </Grid>
+</Window>
