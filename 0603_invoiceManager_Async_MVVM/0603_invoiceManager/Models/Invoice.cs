@@ -2,7 +2,7 @@
 
 namespace _0603_invoiceManager_Async_MVVM.Models
 {
-    // Model representing an invoice - capture invoice data)
+    // Model representing an invoice - capture invoice data
     public class Invoice
     {
         // Company name fixed for all invoices
