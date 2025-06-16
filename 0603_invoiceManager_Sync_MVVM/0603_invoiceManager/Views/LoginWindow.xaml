@@ -1,0 +1,45 @@
+<Window x:Class="_0603_invoiceManager_Sync_MVVM.Views.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewModels="clr-namespace:_0603_invoiceManager_Sync_MVVM.ViewModels"
+        mc:Ignorable="d"
+        Title="Login"
+        Width="400" Height="250"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+	<Window.DataContext>
+		<viewModels:LoginViewModel />
+	</Window.DataContext>
+	<Grid Margin="20">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="*" />
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto" />
+			<ColumnDefinition Width="*" />
+		</Grid.ColumnDefinitions>
+
+
+        <!-- Binding to Username property -->
+        <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Text="Username:" />
+		<TextBox Grid.Row="0" Grid.Column="1" Margin="5,2"
+                 Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}" />
+
+
+        <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Text="Password:" />
+		<PasswordBox Grid.Row="1" Grid.Column="1" Margin="5,2"
+                     PasswordChanged="PasswordBox_PasswordChanged" />
+
+
+        <!-- Binding to login command -->
+        <Button Grid.Row="2" Grid.Column="1" Margin="5,15,0,0" Width="75"
+                Content="Login"
+                Command="{Binding LoginCommand}"
+                IsDefault="True" Click="Button_Click" />
+	</Grid>
+</Window>

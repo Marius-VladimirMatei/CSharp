@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Models\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Models\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Models\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Models\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\InputHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Services\\InputHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Views\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Views\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\Validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Services\\Validation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Controllers\\AddressBookManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Controllers\\AddressBookManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Interfaces\\IAddressBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Interfaces\\IAddressBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\DataStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0301_persAddress\\Services\\DataStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Models\\Person.cs",
+              "RelativeToolTip": "0301_persAddress\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:40:30.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Models\\Address.cs",
+              "RelativeToolTip": "0301_persAddress\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:41:06.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\InputHandler.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Services\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\InputHandler.cs",
+              "RelativeToolTip": "0301_persAddress\\Services\\InputHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:13:20.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Program.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Program.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Program.cs",
+              "RelativeToolTip": "0301_persAddress\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T10:15:36.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Views\\Menu.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Views\\Menu.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Views\\Menu.cs",
+              "RelativeToolTip": "0301_persAddress\\Views\\Menu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:23:41.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validation.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\Validation.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Services\\Validation.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\Validation.cs",
+              "RelativeToolTip": "0301_persAddress\\Services\\Validation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:10:43.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddressBookManager.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Controllers\\AddressBookManager.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Controllers\\AddressBookManager.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Controllers\\AddressBookManager.cs",
+              "RelativeToolTip": "0301_persAddress\\Controllers\\AddressBookManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:24:52.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAddressBook.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Interfaces\\IAddressBook.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Interfaces\\IAddressBook.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Interfaces\\IAddressBook.cs",
+              "RelativeToolTip": "0301_persAddress\\Interfaces\\IAddressBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:07:42.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\DataStorage.cs",
+              "RelativeDocumentMoniker": "0301_persAddress\\Services\\DataStorage.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0301_persAddress\\0301_persAddress\\Services\\DataStorage.cs",
+              "RelativeToolTip": "0301_persAddress\\Services\\DataStorage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:02:50.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

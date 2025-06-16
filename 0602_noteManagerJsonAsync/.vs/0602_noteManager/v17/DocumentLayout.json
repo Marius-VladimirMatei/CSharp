@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0602_notemanagerjsonasync\\0602_notemanager\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|solutionrelative:0602_notemanager\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0602_notemanagerjsonasync\\0602_notemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|solutionrelative:0602_notemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0602_notemanagerjsonasync\\0602_notemanager\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|solutionrelative:0602_notemanager\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0602_notemanagerjsonasync\\0602_notemanager\\validation\\inputvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|solutionrelative:0602_notemanager\\validation\\inputvalidators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0602_notemanagerjsonasync\\0602_notemanager\\exeptions\\validationexeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|solutionrelative:0602_notemanager\\exeptions\\validationexeptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0602_notemanagerjsonasync\\0602_notemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|solutionrelative:0602_notemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0602_notemanagerjsonasync\\0602_notemanager\\storage\\filenotestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D50B34A-7938-4E8C-B147-3FF0BC620A5E}|0602_noteManager\\0602_noteManager.csproj|solutionrelative:0602_notemanager\\storage\\filenotestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "0602_noteManager\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\MainWindow.xaml",
+              "RelativeToolTip": "0602_noteManager\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-27T12:49:51.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "0602_noteManager\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Models\\Note.cs",
+              "RelativeToolTip": "0602_noteManager\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:31:24.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileNoteStorage.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Storage\\FileNoteStorage.cs",
+              "RelativeDocumentMoniker": "0602_noteManager\\Storage\\FileNoteStorage.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Storage\\FileNoteStorage.cs",
+              "RelativeToolTip": "0602_noteManager\\Storage\\FileNoteStorage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:30:13.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "0602_noteManager\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "0602_noteManager\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswE4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:28:41.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "0602_noteManager\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\MainWindow.xaml.cs",
+              "RelativeToolTip": "0602_noteManager\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:49:51.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationExeptions.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Exeptions\\ValidationExeptions.cs",
+              "RelativeDocumentMoniker": "0602_noteManager\\Exeptions\\ValidationExeptions.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Exeptions\\ValidationExeptions.cs",
+              "RelativeToolTip": "0602_noteManager\\Exeptions\\ValidationExeptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:31:00.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputValidators.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Validation\\InputValidators.cs",
+              "RelativeDocumentMoniker": "0602_noteManager\\Validation\\InputValidators.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\Validation\\InputValidators.cs",
+              "RelativeToolTip": "0602_noteManager\\Validation\\InputValidators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:28:15.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+﻿<Application x:Class="_0603_invoiceManager_non_mvvm.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="Views/LoginWindow.xaml">
+    <!-- Entry point: opens LoginWindow on startup -->
+    <Application.Resources>
+        <!-- Global resources/styles can be defined here -->
+    </Application.Resources>
+</Application>

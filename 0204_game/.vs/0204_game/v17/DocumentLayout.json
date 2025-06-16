@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\PuzzleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\PuzzleManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\MathPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\MathPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\LogicPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\LogicPuzzle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\ScoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\InputValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\InputValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\AnswerValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\AnswerValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\Menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0204_game\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T09:59:07.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\MathPuzzle.cs",
+              "RelativeDocumentMoniker": "0204_game\\MathPuzzle.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\MathPuzzle.cs",
+              "RelativeToolTip": "0204_game\\MathPuzzle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:55:06.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogicPuzzle.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\LogicPuzzle.cs",
+              "RelativeDocumentMoniker": "0204_game\\LogicPuzzle.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\LogicPuzzle.cs",
+              "RelativeToolTip": "0204_game\\LogicPuzzle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:55:23.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "0204_game\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\ScoreManager.cs",
+              "RelativeToolTip": "0204_game\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:55:38.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\InputValidator.cs",
+              "RelativeDocumentMoniker": "0204_game\\InputValidator.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\InputValidator.cs",
+              "RelativeToolTip": "0204_game\\InputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:55:53.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnswerValidator.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\AnswerValidator.cs",
+              "RelativeDocumentMoniker": "0204_game\\AnswerValidator.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\AnswerValidator.cs",
+              "RelativeToolTip": "0204_game\\AnswerValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:56:09.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PuzzleManager.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\PuzzleManager.cs",
+              "RelativeDocumentMoniker": "0204_game\\PuzzleManager.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\PuzzleManager.cs",
+              "RelativeToolTip": "0204_game\\PuzzleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:13:45.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\GameManager.cs",
+              "RelativeDocumentMoniker": "0204_game\\GameManager.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\GameManager.cs",
+              "RelativeToolTip": "0204_game\\GameManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:13:05.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\Menu.cs",
+              "RelativeDocumentMoniker": "0204_game\\Menu.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\Menu.cs",
+              "RelativeToolTip": "0204_game\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:30:01.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\Program.cs",
+              "RelativeDocumentMoniker": "0204_game\\Program.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0204_game\\0204_game\\Program.cs",
+              "RelativeToolTip": "0204_game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:20:46.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

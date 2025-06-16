@@ -63,47 +63,6 @@ namespace _0203_personalData
             Console.WriteLine("Person added successfully!\n");
         }
 
-        /*
-                // Method for filtering and displaying Person objects by age
-                private void FilterByAge()
-                {
-                    // Prompt user for maximum age
-                    Console.Write("Enter the maximum age: ");
-                    if (int.TryParse(Console.ReadLine(), out int maxAge))
-                    {
-                        // New list to hold filtered Person objects
-                        List<Person> filteredPersons = new List<Person>();
-                        foreach (Person objectPerson in personList)
-                        {
-                            if (objectPerson.Age <= maxAge)
-                            {
-                                filteredPersons.Add(objectPerson);
-                            }
-                        }
-
-                        if (filteredPersons.Count == 0)
-                        {
-                            Console.WriteLine($"No entries found with age <= {maxAge}.\n");
-                            return;
-                        }
-
-                        Console.WriteLine($"People aged {maxAge} or younger:");
-                        foreach (Person p in filteredPersons)
-                        {
-                            Console.WriteLine(p);
-                        }
-                        Console.WriteLine();  // Blank line for readability
-                    }
-                    else
-                    {
-                        Console.WriteLine("Invalid age input. Please enter a number.\n");
-                    }
-                }
-        */
-
-
-
-
 
         // Method for filtering and displaying Person objects by age usnig LINQ
         private void FilterByAge()

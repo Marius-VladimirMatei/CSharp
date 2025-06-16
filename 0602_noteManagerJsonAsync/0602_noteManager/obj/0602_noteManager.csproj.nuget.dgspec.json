@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vlad\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj": {}
+    "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vlad\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj": {
+    "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vlad\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj",
+        "projectUniqueName": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj",
         "projectName": "0602_noteManager",
-        "projectPath": "C:\\Users\\vlad\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj",
-        "packagesPath": "C:\\Users\\vlad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vlad\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\obj\\",
+        "projectPath": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\0602_noteManager.csproj",
+        "packagesPath": "C:\\Users\\052583\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0602_noteManagerJsonAsync\\0602_noteManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\vlad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\052583\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,8 +26,7 @@
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

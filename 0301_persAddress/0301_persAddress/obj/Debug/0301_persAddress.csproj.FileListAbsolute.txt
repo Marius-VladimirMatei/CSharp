@@ -1,0 +1,7 @@
+C:\Users\052583\OneDrive\________WORK One Drive Cloud\____ #1 SZF\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\KMS 7 C# Fundamentals\Projects\0301_persAddress\0301_persAddress\bin\Debug\0301_persAddress.exe.config
+C:\Users\052583\OneDrive\________WORK One Drive Cloud\____ #1 SZF\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\KMS 7 C# Fundamentals\Projects\0301_persAddress\0301_persAddress\bin\Debug\0301_persAddress.exe
+C:\Users\052583\OneDrive\________WORK One Drive Cloud\____ #1 SZF\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\KMS 7 C# Fundamentals\Projects\0301_persAddress\0301_persAddress\bin\Debug\0301_persAddress.pdb
+C:\Users\052583\OneDrive\________WORK One Drive Cloud\____ #1 SZF\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\KMS 7 C# Fundamentals\Projects\0301_persAddress\0301_persAddress\obj\Debug\0301_persAddress.csproj.AssemblyReference.cache
+C:\Users\052583\OneDrive\________WORK One Drive Cloud\____ #1 SZF\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\KMS 7 C# Fundamentals\Projects\0301_persAddress\0301_persAddress\obj\Debug\0301_persAddress.csproj.CoreCompileInputs.cache
+C:\Users\052583\OneDrive\________WORK One Drive Cloud\____ #1 SZF\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\KMS 7 C# Fundamentals\Projects\0301_persAddress\0301_persAddress\obj\Debug\0301_persAddress.exe
+C:\Users\052583\OneDrive\________WORK One Drive Cloud\____ #1 SZF\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\KMS 7 C# Fundamentals\Projects\0301_persAddress\0301_persAddress\obj\Debug\0301_persAddress.pdb

@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|c:\\users\\052583\\onedrive\\________work one drive cloud\\____ #1 szf\\5 software development applikations entwicklung\\kms 7 c# fundamentals\\projects\\0501_synclreader\\0501_normalreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|solutionrelative:0501_normalreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalreader\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|solutionrelative:0501_normalreader\\filereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalreader\\progressindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|solutionrelative:0501_normalreader\\progressindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalreader\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5C49A4-D163-4032-9CC1-75303675D914}|0501_normalReader\\0501_normalReader.csproj|solutionrelative:0501_normalreader\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgressIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\ProgressIndicator.cs",
+              "RelativeDocumentMoniker": "0501_normalReader\\ProgressIndicator.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\ProgressIndicator.cs",
+              "RelativeToolTip": "0501_normalReader\\ProgressIndicator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:22:12.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileReader.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\FileReader.cs",
+              "RelativeDocumentMoniker": "0501_normalReader\\FileReader.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\FileReader.cs",
+              "RelativeToolTip": "0501_normalReader\\FileReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:21:52.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\InputValidator.cs",
+              "RelativeDocumentMoniker": "0501_normalReader\\InputValidator.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\InputValidator.cs",
+              "RelativeToolTip": "0501_normalReader\\InputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:21:35.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\Program.cs",
+              "RelativeDocumentMoniker": "0501_normalReader\\Program.cs",
+              "ToolTip": "C:\\Users\\052583\\OneDrive\\________WORK One Drive Cloud\\____ #1 SZF\\5 SOFTWARE DEVELOPMENT APPLIKATIONS ENTWICKLUNG\\KMS 7 C# Fundamentals\\Projects\\0501_synclReader\\0501_normalReader\\Program.cs",
+              "RelativeToolTip": "0501_normalReader\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:21:05.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

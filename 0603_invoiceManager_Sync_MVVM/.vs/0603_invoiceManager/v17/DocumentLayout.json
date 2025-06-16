@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\viewmodels\\invoiceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\services\\validationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|c:\\users\\052583\\csdotnet\\0603_invoicemanager_sync_mvvm\\0603_invoicemanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E8A1B7AE-21E4-45D4-93A6-BA0B9BC01746}|0603_invoiceManager\\0603_invoiceManager.csproj|solutionrelative:0603_invoicemanager\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationService.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Services\\ValidationService.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Services\\ValidationService.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Services\\ValidationService.cs",
+              "RelativeToolTip": "0603_invoiceManager\\Services\\ValidationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:42:45.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "0603_invoiceManager\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:26:40.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "0603_invoiceManager\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:31:57.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Models\\Invoice.cs",
+              "RelativeToolTip": "0603_invoiceManager\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:37:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "0603_invoiceManager\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:26:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\ViewModels\\InvoiceViewModel.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\ViewModels\\InvoiceViewModel.cs",
+              "RelativeToolTip": "0603_invoiceManager\\ViewModels\\InvoiceViewModel.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:34:45.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "0603_invoiceManager\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T17:23:05.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "0603_invoiceManager\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:44:50.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Helpers\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Helpers\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Helpers\\RelayCommand.cs",
+              "RelativeToolTip": "0603_invoiceManager\\Helpers\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:31:50.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "0603_invoiceManager\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-15T17:22:53.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\App.xaml",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\App.xaml",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\App.xaml",
+              "RelativeToolTip": "0603_invoiceManager\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T17:30:09.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\Services\\FileService.cs",
+              "RelativeToolTip": "0603_invoiceManager\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T18:26:50.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\App.xaml.cs",
+              "RelativeDocumentMoniker": "0603_invoiceManager\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\052583\\CsDotNet\\0603_invoiceManager_Sync_MVVM\\0603_invoiceManager\\App.xaml.cs",
+              "RelativeToolTip": "0603_invoiceManager\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:30:41.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

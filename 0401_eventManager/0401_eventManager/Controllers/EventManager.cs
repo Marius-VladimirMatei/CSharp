@@ -4,6 +4,7 @@ using _0401_eventManager.Models;
 using _0401_eventManager.Services;
 using _0401_eventManager.Interfaces;
 using _0401_eventManager.Controllers;
+using System.Linq;
 
 namespace _0401_eventManager.Controllers
 {
@@ -34,17 +35,7 @@ namespace _0401_eventManager.Controllers
             string location = InputHandler.GetText("Event Location: ");
 
             // Check for existing event - If event already exists, show error message
-            bool exists = false;
-            foreach (var eventTest in _events)
-            {
-                if (eventTest.Name.Equals(name, StringComparison.OrdinalIgnoreCase))
-                {
-                    exists = true;
-                    break;
-                }
-            }
-
-            if (exists)
+            if (_events.Any(e => e.Name.Equals(name, StringComparison.OrdinalIgnoreCase)))
             {
                 Console.WriteLine("Error: Event with this name already exists.");
                 return;
@@ -113,7 +104,7 @@ namespace _0401_eventManager.Controllers
                 }
             }
 
-            if (alreadyRegistered)
+            if (alreadyRegistered) 
             {
                 Console.WriteLine("Error: Participant with this email already registered for the event.");
                 return;
