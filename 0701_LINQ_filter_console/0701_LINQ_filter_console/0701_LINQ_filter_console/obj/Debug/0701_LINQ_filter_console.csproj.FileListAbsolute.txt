@@ -1,0 +1,7 @@
+C:\Users\052583\CsDotNet\0701_LINQ_filter_console\0701_LINQ_filter_console\0701_LINQ_filter_console\obj\Debug\0701_LINQ_filter_console.csproj.AssemblyReference.cache
+C:\Users\052583\CsDotNet\0701_LINQ_filter_console\0701_LINQ_filter_console\0701_LINQ_filter_console\obj\Debug\0701_LINQ_filter_console.csproj.CoreCompileInputs.cache
+C:\Users\052583\CsDotNet\0701_LINQ_filter_console\0701_LINQ_filter_console\0701_LINQ_filter_console\bin\Debug\0701_LINQ_filter_console.exe.config
+C:\Users\052583\CsDotNet\0701_LINQ_filter_console\0701_LINQ_filter_console\0701_LINQ_filter_console\bin\Debug\0701_LINQ_filter_console.exe
+C:\Users\052583\CsDotNet\0701_LINQ_filter_console\0701_LINQ_filter_console\0701_LINQ_filter_console\bin\Debug\0701_LINQ_filter_console.pdb
+C:\Users\052583\CsDotNet\0701_LINQ_filter_console\0701_LINQ_filter_console\0701_LINQ_filter_console\obj\Debug\0701_LINQ_filter_console.exe
+C:\Users\052583\CsDotNet\0701_LINQ_filter_console\0701_LINQ_filter_console\0701_LINQ_filter_console\obj\Debug\0701_LINQ_filter_console.pdb
