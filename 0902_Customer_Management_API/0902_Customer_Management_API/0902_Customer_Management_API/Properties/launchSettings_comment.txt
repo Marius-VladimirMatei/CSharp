@@ -1,0 +1,18 @@
+﻿
+
+
+
+
+ // Profile for running as a standalone .NET project via `dotnet run` command
+ //
+
+    "CustomerManagementAPI": {
+      "commandName": "Project",              // Launches via `dotnet run` (the project itself)
+      "dotnetRunMessages": true,             // Show the .NET startup banner & info messages in the console (Now Listening on: http://localhost:....)
+      "launchBrowser": true,                 // Open the default browser automatically
+      "applicationUrl":                         // URLs the Kestrel server will listen on:
+        "http://localhost:3007;http://localhost:3006",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"  // Run in Development mode
+      }
+    }

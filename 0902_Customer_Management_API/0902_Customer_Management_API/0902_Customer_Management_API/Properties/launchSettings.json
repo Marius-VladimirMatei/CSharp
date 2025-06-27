@@ -1,0 +1,17 @@
+﻿
+
+
+{
+    "profiles": {
+
+        "CustomerManagementAPI": {
+            "commandName": "Project",
+            "dotnetRunMessages": true,
+            "launchBrowser": true,
+            "applicationUrl": "https://localhost:3007;http://localhost:3006",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}
