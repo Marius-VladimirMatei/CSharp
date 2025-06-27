@@ -1,0 +1,12 @@
+﻿<Window x:Class="_0801_Customer_Management_GUI_DB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:_0801_Customer_Management_GUI_DB.Views"
+        Title="Customer Management" Height="900" Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <!-- This ContentControl will show LoginView initially -->
+        <ContentControl x:Name="MainContent"/>
+    </Grid>
+</Window>

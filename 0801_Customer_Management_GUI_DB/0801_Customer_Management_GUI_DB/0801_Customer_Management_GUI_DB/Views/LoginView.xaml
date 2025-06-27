@@ -1,0 +1,75 @@
+<UserControl x:Class="_0801_Customer_Management_GUI_DB.Views.LoginView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="clr-namespace:_0801_Customer_Management_GUI_DB.ViewModels"
+             Height="Auto" Width="Auto">
+    <!-- DataContext is set in code-behind -->
+    <Grid Background="#FFF5F5F5" Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Big, beautiful title -->
+        <TextBlock 
+            Text="Customer Manager" 
+            FontSize="36" 
+            FontWeight="Bold" 
+            Foreground="#FF2E86C1" 
+            HorizontalAlignment="Center" 
+            Margin="0,10,0,5"/>
+
+        <!-- Friendly subtitle -->
+        <TextBlock 
+            Grid.Row="1"
+            Text="Welcome back! Please sign in to continue managing your customers." 
+            FontSize="14" 
+            FontStyle="Italic" 
+            Foreground="#FF555555" 
+            TextAlignment="Center"
+            TextWrapping="Wrap"
+            Margin="0,0,0,20"/>
+
+        <!-- Login form -->
+        <StackPanel 
+            Grid.Row="2"
+            HorizontalAlignment="Center"
+            VerticalAlignment="Top"
+            Width="300"
+            Margin="0,10,0,0">
+
+            <!-- Username label + TextBox -->
+            <TextBlock Text="Username"
+                       FontSize="12"
+                       FontWeight="SemiBold"
+                       Foreground="#FF555555"/>
+            <TextBox
+                Text="{Binding Username, UpdateSourceTrigger=PropertyChanged}"
+                Height="30"
+                ToolTip="Enter your username"/>
+
+            <!-- Password label + PasswordBox -->
+            <TextBlock Text="Password"
+                       FontSize="12"
+                       FontWeight="SemiBold"
+                       Foreground="#FF555555"
+                       Margin="0,8,0,0"/>
+            <PasswordBox
+                x:Name="PasswordBox"
+                Height="30"
+                ToolTip="Enter your password"/>
+
+            <!-- Login button -->
+            <Button
+                Content="Login"
+                Command="{Binding LoginCommand}"
+                Click="OnLoginButtonClick"
+                IsDefault="True"
+                Height="30"
+                Background="#FF2E86C1"
+                Foreground="White"
+                FontWeight="SemiBold"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
